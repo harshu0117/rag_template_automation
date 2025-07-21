@@ -1,0 +1,55 @@
+
+A. Overview of the Transaction
+Investment firm has been invited to bid on a [Size] share [Transaction Type] Block Trade (the "Offering") of [Company Full Name] ("[Company Short Name]" or the "Company"). The deal will be [primary/secondary] with [Selling Shareholder(s)] acting as the selling shareholder(s). Investment firm is bidding to serve as [Role] on the transaction. Investment firm will bid on the trade on [Bid Date] and the transaction will be completed on [Trade Date]. [Underwriter/Auditor Name] will act as the auditor. [Company Counsel Name] will act as the Company's counsel and [Underwriter/Auditor Counsel Name] will act as the underwriters' counsel.
+
+B. Company Overview
+[Information about company's business overview along with it's founding date and headquarter information. Briefly mention the company's primary market, the regions it operates in and its competitive position within industry]
+[Information about the comapny's products, services, or solutions. List the solutions, products, services by name. Highlight flagship products, differentiating factors that make the offerings unique or competitive]
+[Information about the company�s latest revenue and profitability metrics (e.g. net profit or loss). Provide key revenue metrics, key performance indicators and growth trends]
+
+
+C. Structure and Timing of the Transaction
+Summary Terms
+Company & Offering Details
+
+Issuer
+
+Ticker / Exchange
+
+Security Type
+
+Bid Date
+
+Trade Date
+
+Settlement Date
+
+Expected Offering Size (Shares / $)
+
+Primary / Secondary Mix
+
+Selling Shareholder(S)
+
+Use Of Proceeds
+
+Lock-Up
+
+Current Stock Price
+
+Current Basic Market Cap
+
+Underwriters & Economics
+
+Gross Spread
+
+Bookrunners
+
+Other Working Group Members
+
+Company Counsel
+
+Underwriters' Counsel
+
+Company Auditor
+
+
