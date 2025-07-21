@@ -1,5 +1,12 @@
 # RAG-Driven Document Automation Pipeline
 
+[![Author](https://img.shields.io/badge/Author-harshu0117-blue)](https://github.com/harshu0117)
+[![Groq](https://img.shields.io/badge/Groq-LLM%20Inference%20Acceleration-red)](https://groq.com/)
+[![Python](https://img.shields.io/badge/Python-Programming-blue)](https://www.python.org/)
+[![Regex](https://img.shields.io/badge/Regex-Pattern%20Matching-purple)](https://regex101.com/)
+[![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-darkgreen)](https://github.com/facebookresearch/faiss)
+
+
 Automate the extraction, semantic search, and template-driven generation of structured documents from unstructured PDF sources using Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs).
 
 ---
@@ -30,12 +37,12 @@ This project provides an end-to-end pipeline for generating structured documents
 ├── embed_chunks.py               # Embeds chunks and builds FAISS index
 ├── fill_template.py              # Fills the template using RAG + LLM
 ├── case_study_document_raw_template.txt  # Example template with placeholders
-├── blbd_pdf_chunks.json          # Output: Chunked text from PDFs
-├── blbd_faiss.index              # Output: FAISS vector index
-├── blbd_chunk_map.json           # Output: Mapping of chunks to source
-├── blbd_filled_final.txt         # Output: Final filled document
-├── requirements.txt              # Python dependencies
-└── README.md                     # Project documentation (this file)
+├── company_pdf_chunks.json          # Output: Chunked text from PDFs
+├── company_faiss.index              # Output: FAISS vector index
+├── company_chunk_map.json           # Output: Mapping of chunks to source
+├── blbd_filled_final.txt         # Output: Final filled document via llm 
+├── requirements.txt              
+└── README.md                   
 ```
 
 ---
@@ -72,6 +79,8 @@ This project provides an end-to-end pipeline for generating structured documents
 ## 📊 Evaluation
 
 To assess the quality of the generated documents, an evaluation was conducted by comparing a human-filled template with one produced by this automated pipeline. Both outputs were submitted to a third-party LLM for judgment, with the human-generated document set as the baseline (10/10). The pipeline-generated document received a score of 5/10, indicating that while the automated approach captures relevant information, there is still a gap in completeness, nuance, and accuracy compared to expert human work.
+
+For more information, you can compare the `case_study_document_raw_template.txt` and `blbd_filled_final.txt files`. 
 
 ---
 
@@ -116,7 +125,7 @@ To assess the quality of the generated documents, an evaluation was conducted by
 
 ## 📄 License
 
-MIT License (or your preferred license)
+MIT License
 
 ---
 
