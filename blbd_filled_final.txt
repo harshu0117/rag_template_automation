@@ -1,0 +1,396 @@
+
+A. Overview of the Transaction
+Investing Firm has been invited to bid on a The field is "Size". 
+
+The most accurate and factual value for the size of Blue Bird Corporation is NOT FOUND in the provided context. The context does not provide a specific value or metric that directly relates to the size of the company. However, it does provide information on the company's financial performance, market share, and industry trends, which can be used to infer the company's size relative to its peers and the industry as a whole. share The Transaction Type is NOT FOUND in the provided context. The context appears to be a financial report or earnings call transcript, and it does not mention a specific transaction type. It discusses the company's financial performance, outlook, and strategies, but it does not provide information about a specific transaction type. Block Trade (the "Offering") of The Company Full Name is: Blue Bird Corp ("The Company Short Name is: Blue Bird Corp" or the "Company"). The deal will be The field is "primary/secondary". 
+
+After reviewing the context, I did not find any specific information that directly answers this field. The context provides information about the company's financial performance, operations, and market trends, but it does not explicitly mention "primary" or "secondary" in relation to the company's business or financials.
+
+Therefore, the answer is: NOT FOUND. with The Selling Shareholder(s) are:
+
+Funds affiliated with American Securities, which beneficially own 4,042,650 shares of common stock, representing 12.6% of the total shares outstanding. acting as the selling shareholder(s). Investing Firm is bidding to serve as The field is "Role". 
+
+The answer is: Human Capital Management, which includes roles such as attracting, developing, and retaining skilled talent, promoting a diverse and inclusive culture, and employee training and development programs. on the transaction. Investing Firm will bid on the trade on The Bid Date is NOT FOUND in the provided context. and the transaction will be completed on The field is "Trade Date". 
+
+After reviewing the provided context, I did not find a specific trade date mentioned. Therefore, the answer is:
+
+NOT FOUND. The field is "Underwriter/Auditor Name". 
+
+After reviewing the context, I found the following relevant information:
+
+* Underwriter: NOT FOUND (no specific underwriter name is mentioned)
+* Auditor: BDO USA, P.C. (mentioned in the "Auditor Diligence" section)
+
+Please note that the underwriter's name is not explicitly mentioned in the provided context. will act as the auditor. The Company Counsel Name is: Ted Scartz. will act as the Company's counsel and The Underwriter/Auditor Counsel Name is:
+
+Weil, Gotshal & Manges LLP (Counsel to the Company and Selling Shareholder)
+Latham & Watkins LLP (Counsel to the Underwriter)
+BDO USA, P.C. (Auditor) will act as the underwriters' counsel.
+
+B. Company Overview
+Here is the paragraph providing an overview of the company's business, founding date, headquarters, primary market, regions of operation, and competitive position within the industry:
+
+Blue Bird Corporation is a leading manufacturer of school buses in North America, founded in 1927 and headquartered in Fort Valley, Georgia. The company operates primarily in the school bus industry, with a diverse product range that includes electric, propane, gas, and diesel buses, as well as Type A, C, and D buses. Blue Bird's products are sold through a network of dealerships across the United States and Canada, with a strong presence in the North American market. The company has gained market share over the last trailing 12 months, with a strong win rate and order rate supporting its demand. Blue Bird's competitive position is strengthened by its expansive product range, which is unmatched by its competitors. With a focus on innovation, quality, and customer satisfaction, the company is well-positioned to maintain its leadership in the school bus industry.
+Here is the paragraph:
+
+Blue Bird Corporation offers a comprehensive range of products, services, and solutions in the school bus industry. Our flagship products include propane, gasoline, diesel, and electric buses, catering to the diverse needs of our customers. We take pride in having the most expansive product range in the industry, with a focus on alternative fuel vehicles, which account for over 60% of our sales. Our propane buses, in particular, are known for their ultra-low emissions and are eligible for rebates and grants from the Environmental Protection Agency (EPA). Additionally, we provide warranties on virtually all of our buses and parts, offering repair, replacement, or adjustment of defective parts during the specified warranty period. We also invest heavily in research and development to enhance our products and services, with a focus on innovation, quality, and customer satisfaction. Our solutions are designed to provide a safe, reliable, and environmentally friendly transportation experience for students, while also meeting the evolving needs of our customers.
+Here is the paragraph on the company's latest revenue and profitability metrics:
+
+In fiscal 2024 Q1, the company reported a record gross margin of 20%, 17 percentage points higher than last year, driven by improved operational performance and pricing that has overtaken the inflationary costs of the last 18-plus months. Adjusted net income was approximately $30 million, or $40 million higher than last year. Adjusted EBITDA was approximately $48 million, up $51 million and 17 percentage points compared to the prior year. Adjusted diluted earnings per share were $0.91, up $1.21 versus the prior year. The company's quarterly revenues have been in the $300 million range and growing, partially due to pricing realization combined with the quarter-by-quarter increase in EV mix, which is now at approximately 10% of sales. Over the last four quarters, the company has generated almost $140 million in adjusted EBITDA, or 11%.
+
+
+
+
+
+
+
+
+
+
+C. Structure and Timing of the Transaction
+Summary Terms
+Company & Offering Details
+Here are the answers to the Company & Offering Details field:
+
+**Company Name:** Blue Bird Corporation
+**Ticker Symbol:** BLBD
+**Offering Size:** 4,042,650 shares of common stock
+**Offering Percentage:** 12.6% of total shares outstanding
+**Lock-up Period:** 45 days for the Company, directors, executive officers, and the selling shareholder
+**Underwriters:** BofA Securities, Inc. and Investing Firm Capital Inc.
+**Counsel to the Company and Selling Shareholder:** Weil, Gotshal & Manges LLP
+**Counsel to the Underwriter:** Latham & Watkins LLP
+**Advisor to the Selling Shareholder:** Solebury Capital
+Issuer
+The Issuer is Blue Bird Corporation.
+Ticker / Exchange
+The answer is: BLBD-US
+Security Type
+The Security Type is: Common Stock.
+Bid Date
+The Bid Date is NOT FOUND in the provided context.
+Trade Date
+The field is "Trade Date". 
+
+After reviewing the provided context, I did not find a specific trade date mentioned. Therefore, the answer is:
+
+NOT FOUND
+Settlement Date
+The Settlement Date is NOT FOUND in the provided context.
+Expected Offering Size (Shares / $)
+
+Primary / Secondary Mix
+The field is "Primary / Secondary Mix". 
+
+The most accurate and factual value for this field is:
+
+* Alt fuel vehicles: over 60%
+* EV mix: 10% in the first quarter, 10% in the current backlog, and expected to be around 8-9% for the balance of the year.
+
+Note: These values are based on the provided context and may not reflect the company's overall primary/secondary mix, but rather specific metrics mentioned in the conversation.
+Selling Shareholder(S)
+
+Use Of Proceeds
+The field is "Use Of Proceeds". 
+
+The most accurate and factual value for this field is: 
+
+The proceeds from the debt issue were used to complete a tender offer to purchase shares of the Company's common and preferred stock.
+Lock-Up
+The field you're looking for is "Lock-Up". 
+
+After reviewing the provided context, I did not find any specific information related to "Lock-Up". Therefore, the answer is:
+
+NOT FOUND
+Current Stock Price
+The current stock price is NOT FOUND in the provided context. The context provides information about the company's financial statements, stock options, restricted stock, and other financial data, but it does not mention the current stock price.
+Current Basic Market Cap
+The current basic market capitalization (market cap) of Blue Bird Corporation is NOT FOUND in the provided context. Market capitalization is the total value of outstanding shares, calculated by multiplying the total number of shares outstanding by the current market price of one share. The context does not provide the current market price of Blue Bird Corporation's shares, so it is not possible to calculate the market capitalization.
+Underwriters & Economics
+Here are the answers to the questions:
+
+**Underwriters & Economics**
+
+* Underwriters: NOT FOUND
+* Economics:
+	+ Interest rates: The company's borrowings under its credit facility bear interest at variable market rates, exposing it to interest rate risk.
+	+ Financing costs: The company incurred $7.4 million in expenses related to the Offerings in fiscal 2023.
+	+ Debt facilities: The company has a $250.0 million five-year credit agreement with Bank of Montreal, which includes a term loan facility and a revolving credit facility.
+	+ Interest expense: The company's amortization of deferred financing costs was $1.5 million, $1.5 million, and $1.1 million for fiscal 2023, fiscal 2022, and fiscal 2021, respectively.
+Gross Spread
+
+Bookrunners
+
+Other Working Group Members
+
+Company Counsel
+
+Underwriters' Counsel
+
+Company Auditor
+
+
+
+
+---
+SOURCE CHUNKS USED FOR EACH FIELD:
+
+[Size]:
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 36**
+    sizes and replacement patterns due to funding availability as well as the profitability of existing routes. These actions can impact total purchases by fleets in a given year. • Seasonality. Historically, our sales have been subject to seasonal variation based on the school calendar with the peak season during our third and fourth fiscal quarters. Sales during the third and fourth fiscal quarters are typically greater than the first and second fiscal quarters due to the desire of municipalities ...
+  **PDF: BLBD - T_E_document_dated_15-08-2024.pdf | Chunk: 10**
+    00:41:08 Question – Michael Shlisky: Great. Great. It's great to see that you also had growth in the unit sales during the quarter, too, that was exciting. It doesn't appear to me that some of your competitors had growth in their unit sales in the quarter. Can you maybe comment on Blue Bird's market share? Do you think you're gaining share? And give me two answers, one on the ICE side and one on the EV side will be appreciated. 00:41:32 Answer – Philip Horlock: Well, we don't tend to talk too mu...
+  **PDF: BLBD - T_E_document_dated_15-08-2024.pdf | Chunk: 8**
+    We will work with our dealers and end customers to pull out as many as we can into ﬁscal 2024. But for prudency, we have cut our EV bookings forecast for this year from 900 units to 800 units. 00:33:31 So, let me now wrap up the earnings call and the outlook for the business on slide 23. Razvan talked you through the raised guidance for ﬁscal 2024 and I'm showing you some of those metrics at the midpoint of guidance here. We are being prudent on our bookings outlook, only increasing volume by 3%...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 57**
+    that its fair value is less than its carrying amount. If under the quantitative assessment the fair value of a reporting unit is less than its carrying amount, then the amount of the impairment loss, if any, must be measured under step two of the impairment analysis. In step two of the analysis, we would record an impairment loss equal to the excess of the carrying value of the reporting unit’s goodwill over its implied fair value should such a circumstance arise. Fair value of the reporting uni...
+
+[Transaction Type]:
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 53**
+    information regarding this transaction. To increase our liquidity in future periods, we could pursue raising additional capital via an equity or debt offering utilizing a currently effective "shelf" registration statement. However, we can offer no assurance that we would be successful in raising this additional capital, which could also lead to increased expense and larger up-front fees when compared with our historical financial statements. Seasonality Historically, our business has been highly...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 25**
+    Our business could be materially adversely affected by changes in foreign currency exchange rates. We sell the majority of our buses and parts in U.S. Dollars. Our foreign customers have exposures to risks related to changes in foreign currency exchange rates on our sales in that region. Foreign currency exchange rates can have material adverse effects on our foreign customers' ability to purchase our products. Further, we have certain sales contracts that are transacted in Canadian Dollars. Whi...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 67**
+    buses, control is generally transferred and the customer has the ability to direct the use of and obtain substantially all of the remaining benefits of the product when the product is delivered or when the product has been completed, is ready for delivery, has been paid for, its title has transferred and it is awaiting pickup by the customer. For certain bus sale transactions, we may provide incentives including payment of a limited amount of future interest charges our customers may incur relat...
+  **PDF: BLBD - T_E_document_dated_15-08-2024.pdf | Chunk: 6**
+    maintains a conservative cash position by year end. On the left side, our sources of cash consist of a very strong cash ﬂow from operations after tax and interest of $148 million, existing cash at ﬁscal 2023 yearend of $77 million, and $5 million in dividends from our joint venture with Micro Bird. We do not expect to add new debt this year. 00:25:21 On the right side, we have three uses of cash: growth, shareholders and debt repayments. As far as growth is concerned, we plan to use and not to e...
+
+[Company Full Name]:
+  **PDF: blue_bird_email.pdf | Chunk: 2**
+    Email: matt.schlanger@lw.com Madison Venezia Direct Phone: (332) 240-2108 Email: madison.venezia@lw.com Adam Picker Direct Phone: (212) 906-4879 Email: Adam.picker@lw.com Advisor to the Selling Shareholder: Solebury Capital 400 South River Road Suite 300 New Hope, PA 18938 OƯice: (215) 862-7234 Ted Hatﬁeld Mobile: (201) 602-7522 Email: erh@solecap.com Mike Liddell Mobile: (917) 648-0092 Email: mdl@solecap.com Rob Mullin Mobile: (215) 206-4017 Email: rlm@solecap.com Nick Buoncore Mobile: (732) 94...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 14**
+    were full-time. On May 22, 2023, the National Labor Relations Board (“NLRB”) certified the United Steel, Paper and Forestry, Rubber, Manufacturing, Energy, Allied & Industrial Service Workers International Union, AFL-CIO, CLC (“USW”) as the exclusive bargaining representative for a bargaining unit of the Company’s full-time and regular part-time production, maintenance, quality control, and warehouse employees at the Company’s Fort Valley and Macon, Georgia locations, with certain exceptions. Th...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 75**
+    Bank, as co-syndication agent, together with other lenders ("Credit Agreement"). The credit facilities provided for under the Credit Agreement consisted of a term loan facility in an aggregate initial principal amount of$160.0 million (the “Term Loan Facility”) and a revolving credit facility with aggregate commitments of $75.0 million. The revolving credit facility included a $15.0 million letter of credit sub-facility anda $5.0 million swing-line sub-facility (“Revolving Credit Facility,” and ...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 92**
+    in the terms of the Joint Venture Agreement. In connection with the execution of the Joint Venture Agreement, the Company granted Generate Capital warrants to purchase an aggregate of 1,000,000 shares of Company common stock at an exercise price of $25.00 per share (“Warrants”), during a five-year exercise period. Two-thirds of the Warrants are immediately exercisable; the remaining Warrants will become exercisable upon certain funding conditions being satisfied. The exercise price and the numbe...
+
+[Company Short Name]:
+  **PDF: blue_bird_email.pdf | Chunk: 2**
+    Email: matt.schlanger@lw.com Madison Venezia Direct Phone: (332) 240-2108 Email: madison.venezia@lw.com Adam Picker Direct Phone: (212) 906-4879 Email: Adam.picker@lw.com Advisor to the Selling Shareholder: Solebury Capital 400 South River Road Suite 300 New Hope, PA 18938 OƯice: (215) 862-7234 Ted Hatﬁeld Mobile: (201) 602-7522 Email: erh@solecap.com Mike Liddell Mobile: (917) 648-0092 Email: mdl@solecap.com Rob Mullin Mobile: (215) 206-4017 Email: rlm@solecap.com Nick Buoncore Mobile: (732) 94...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 92**
+    in the terms of the Joint Venture Agreement. In connection with the execution of the Joint Venture Agreement, the Company granted Generate Capital warrants to purchase an aggregate of 1,000,000 shares of Company common stock at an exercise price of $25.00 per share (“Warrants”), during a five-year exercise period. Two-thirds of the Warrants are immediately exercisable; the remaining Warrants will become exercisable upon certain funding conditions being satisfied. The exercise price and the numbe...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 96**
+    officers (incorporated by reference to Exhibit 10.23 to the registrant’s Current Report on Form 8-K filed by the registrant on March 2, 2015). 10.11† Form of Restricted Stock Unit Grant Agreement for directors under the registrant’s Incentive Plan (incorporated by reference to Exhibit 10.1 to the registrant’s Quarterly Report on Form 10-Q/A filed by the registrant on August 18, 2015). 10.12 Credit Agreement dated as of December 12, 2016 by and among Blue Bird Corporation, School Bus Holdings, In...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 70**
+    to license or lease it. Our intangible assets with a definite useful life are amortized over their estimated useful lives,7 or 20 years, using the straight-line method. The useful lives of our intangible assets are reassessed annually and they are tested for impairment whenever events or changes in circumstances indicate the carrying amount of the asset may not be recoverable. Debt Issue Costs Amounts paid directly to lenders or as an original issue discount and amounts classified as issuance co...
+
+[primary/secondary]:
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 54**
+    began receiving deposits for school buses ordered under the terms the Clean School Bus Rebate Program, which provided a net source of cash year over year as there was no similar activity in fiscal 2022. • The impact of non-cash items (net source of cash) was $4.2 million lower in fiscal 2023 compared to fiscal 2022. Non-cash items impact net income or loss but do not have direct cash flows associated with them. The significant differences relate to the impact of an $8.8 million lower of cost or ...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 39**
+    of ongoing operations. Accordingly, we expect Free Cash Flow to be less than operating cash flows. Our Segments We manage our business in two operating segments, which are also our reportable segments: (i) the Bus segment, which involves the design, engineering, manufacture and sale of school buses and extended warranties; and (ii) the Parts segment, which includes the sale of replacement bus parts. Financial information is reported on the basis that it is used internally by the chief operating ...
+  **PDF: BLBD - T_E_document_dated_15-08-2024.pdf | Chunk: 14**
+    EV school buses, these funding opportunities that are so important. You've done way better than 30% of them in the past. Can you maybe talk a little bit about whether or not you think that EPA is under pressure to share this between diﬀerent OEMs, if there's maybe just factors in the market that you're considering with knowledge of diﬀerent programs and diﬀerent commitments from customers? I mean, why 30%, I guess, is the question I'm asking you? 00:55:51 Answer – Philip Horlock: Yeah. Well, why...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 32**
+    the early months of calendar year 2021. Countermeasures taken to address the COVID-19 pandemic included virtual and hybrid schooling in many jurisdictions throughout the U.S. and Canada. The uncertainty of when and how schools would open materially affected demand within the Type C and Type D school bus industry in the second half of the Company's fiscal 2020. While demand for school buses remained suppressed during the first half of fiscal 2021 as a result of the continuing impact of the COVID-...
+
+[Selling Shareholder(s)]:
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 29**
+    our preferred stock and to determine the price and other terms of those shares, including preferences and voting rights, without stockholder approval, which could be used to significantly dilute the ownership of a hostile acquirer; • a prohibition on stockholder action by written consent, which forces stockholder action to be taken at an annual or special meeting of our stockholders; • the requirement that a special meeting of stockholders may be called only by the chairman of the Board of Direc...
+  **PDF: blue_bird_email.pdf | Chunk: 2**
+    Email: matt.schlanger@lw.com Madison Venezia Direct Phone: (332) 240-2108 Email: madison.venezia@lw.com Adam Picker Direct Phone: (212) 906-4879 Email: Adam.picker@lw.com Advisor to the Selling Shareholder: Solebury Capital 400 South River Road Suite 300 New Hope, PA 18938 OƯice: (215) 862-7234 Ted Hatﬁeld Mobile: (201) 602-7522 Email: erh@solecap.com Mike Liddell Mobile: (917) 648-0092 Email: mdl@solecap.com Rob Mullin Mobile: (215) 206-4017 Email: rlm@solecap.com Nick Buoncore Mobile: (732) 94...
+  **PDF: blue_bird_email.pdf | Chunk: 1**
+    the management and auditor call (we ask that all parties mute their lines and do not announce their team as we wish to maintain conﬁdentiality of the bidding group). Once your team has dialed in for each call, please email stelios.saƯos@lw.com; scott.westhoƯ@lw.com; claire.solimine@lw.com; matt.schlanger@lw.com; madison.venezia@lw.com; Adam.picker@lw.com at Latham & Watkins LLP to conﬁrm you are on the call. Additional questions during each call may be emailed to stelios.saƯos@lw.com; scott.west...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 96**
+    officers (incorporated by reference to Exhibit 10.23 to the registrant’s Current Report on Form 8-K filed by the registrant on March 2, 2015). 10.11† Form of Restricted Stock Unit Grant Agreement for directors under the registrant’s Incentive Plan (incorporated by reference to Exhibit 10.1 to the registrant’s Quarterly Report on Form 10-Q/A filed by the registrant on August 18, 2015). 10.12 Credit Agreement dated as of December 12, 2016 by and among Blue Bird Corporation, School Bus Holdings, In...
+
+[Role]:
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 13**
+    on research and development. Warranty We provide warranties on virtually all of the buses and parts we sell. Warranties are offered for specific periods of time and mileage, and vary depending upon the type of product and the geographic location of its sale. Pursuant to these warranties, we will repair, replace, or adjust certain parts on a bus that are defective in factory-supplied materials or workmanship during the specified warranty period. In addition to the costs associated with this warra...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 92**
+    in the terms of the Joint Venture Agreement. In connection with the execution of the Joint Venture Agreement, the Company granted Generate Capital warrants to purchase an aggregate of 1,000,000 shares of Company common stock at an exercise price of $25.00 per share (“Warrants”), during a five-year exercise period. Two-thirds of the Warrants are immediately exercisable; the remaining Warrants will become exercisable upon certain funding conditions being satisfied. The exercise price and the numbe...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 14**
+    were full-time. On May 22, 2023, the National Labor Relations Board (“NLRB”) certified the United Steel, Paper and Forestry, Rubber, Manufacturing, Energy, Allied & Industrial Service Workers International Union, AFL-CIO, CLC (“USW”) as the exclusive bargaining representative for a bargaining unit of the Company’s full-time and regular part-time production, maintenance, quality control, and warehouse employees at the Company’s Fort Valley and Macon, Georgia locations, with certain exceptions. Th...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 29**
+    our preferred stock and to determine the price and other terms of those shares, including preferences and voting rights, without stockholder approval, which could be used to significantly dilute the ownership of a hostile acquirer; • a prohibition on stockholder action by written consent, which forces stockholder action to be taken at an annual or special meeting of our stockholders; • the requirement that a special meeting of stockholders may be called only by the chairman of the Board of Direc...
+
+[Bid Date]:
+  **PDF: blue_bird_email.pdf | Chunk: 1**
+    the management and auditor call (we ask that all parties mute their lines and do not announce their team as we wish to maintain conﬁdentiality of the bidding group). Once your team has dialed in for each call, please email stelios.saƯos@lw.com; scott.westhoƯ@lw.com; claire.solimine@lw.com; matt.schlanger@lw.com; madison.venezia@lw.com; Adam.picker@lw.com at Latham & Watkins LLP to conﬁrm you are on the call. Additional questions during each call may be emailed to stelios.saƯos@lw.com; scott.west...
+  **PDF: BLBD - T_E_document_dated_15-08-2024.pdf | Chunk: 8**
+    We will work with our dealers and end customers to pull out as many as we can into ﬁscal 2024. But for prudency, we have cut our EV bookings forecast for this year from 900 units to 800 units. 00:33:31 So, let me now wrap up the earnings call and the outlook for the business on slide 23. Razvan talked you through the raised guidance for ﬁscal 2024 and I'm showing you some of those metrics at the midpoint of guidance here. We are being prudent on our bookings outlook, only increasing volume by 3%...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 97**
+    options granted to employees under the registrant’s Incentive Plan (incorporated by reference to Exhibit 10.2 to the registrant’s Quarterly Report on Form 10-Q filed by the registrant on February 13, 2020). 10.20† Revised form of grant agreement for restricted stock units granted to employees under the registrant’s Incentive Plan (incorporated by reference to Exhibit 10.3 to the registrant’s Quarterly Report on Form 10-Q filed by the registrant on February 13, 2020). 10.21† Transition Agreement ...
+  **PDF: BLBD - T_E_document_dated_15-08-2024.pdf | Chunk: 11**
+    in his script, so I'll just let – he wants to just jump in here on this one. 00:44:38 Answer – Razvan Radulescu: Yeah. Hi, Eric, (00:44:39) and thanks for the question. So, as I mentioned in my remarks, indeed, our pricing curve is now ahead of the costing curve, especially for the last two quarters. And also, as highlighted with the upcoming investments, whether it's on the products and powertrain and R&D, whether it's into CapEx and manufacturing capabilities, which includes also a component o...
+
+[Trade Date]:
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 85**
+    not be less than100% of the fair market value of a share of the Company's common stock with respect to the grant date of such stock option. No portion of the options vest and become exercisable after the date on which the optionee’s service with the Company and its subsidiaries terminates. The vesting of all unvested shares of common stock subject to an option will automatically be accelerated in connection with a “Change in Control,” as defined in the Plan. New shares of the Company's common st...
+  **PDF: 20240201 - 8K - BLBD - Other Events Financial Statements - 3 pages.pdf | Chunk: 0**
+    Page 1 of 4 UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 Date of Report (Date of Earliest Event Reported): January 31, 2024 BLUE BIRD CORPORATION (Exact name of registrant as speciﬁed in its charter) Delaware 001-36267 46-3891989 (State or Other Jurisdiction of Incorporation) (Commission File Number) (IRS Employer Identiﬁcation No.) 3920 Arkwright Road 2nd Floor Macon, Georgi...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 72**
+    2022, the FASB issued ASU 2022-06,Reference Rate Reform (Topic 848): Deferral of the Sunset Date of Topic 848, which defers the sunset date of ASC 848 from December 31, 2022 to December 31, 2024, after which entities will no longer be permitted to apply the relief in ASC 848. The above amendments were effective for all entities from March 12, 2020 through December 31, 2022. An entity could elect to apply the amendments to contract modifications on a (i) full retrospective basis as of any date fr...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 0**
+    UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 10-K ☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the fiscal year ended September 30, 2023 OR ☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the transition period from ________ to ________ Commission File Number: 001-36267 BLUE BIRD CORPORATION(Exact name of registrant as specified in its charter) Delaware 46-3891989 (State or ...
+
+[Underwriter/Auditor Name]:
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 96**
+    officers (incorporated by reference to Exhibit 10.23 to the registrant’s Current Report on Form 8-K filed by the registrant on March 2, 2015). 10.11† Form of Restricted Stock Unit Grant Agreement for directors under the registrant’s Incentive Plan (incorporated by reference to Exhibit 10.1 to the registrant’s Quarterly Report on Form 10-Q/A filed by the registrant on August 18, 2015). 10.12 Credit Agreement dated as of December 12, 2016 by and among Blue Bird Corporation, School Bus Holdings, In...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 0**
+    UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 10-K ☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the fiscal year ended September 30, 2023 OR ☐ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the transition period from ________ to ________ Commission File Number: 001-36267 BLUE BIRD CORPORATION(Exact name of registrant as specified in its charter) Delaware 46-3891989 (State or ...
+  **PDF: 20240201 - 8K - BLBD - Other Events Financial Statements - 3 pages.pdf | Chunk: 0**
+    Page 1 of 4 UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 Date of Report (Date of Earliest Event Reported): January 31, 2024 BLUE BIRD CORPORATION (Exact name of registrant as speciﬁed in its charter) Delaware 001-36267 46-3891989 (State or Other Jurisdiction of Incorporation) (Commission File Number) (IRS Employer Identiﬁcation No.) 3920 Arkwright Road 2nd Floor Macon, Georgi...
+  **PDF: blue_bird_email.pdf | Chunk: 1**
+    the management and auditor call (we ask that all parties mute their lines and do not announce their team as we wish to maintain conﬁdentiality of the bidding group). Once your team has dialed in for each call, please email stelios.saƯos@lw.com; scott.westhoƯ@lw.com; claire.solimine@lw.com; matt.schlanger@lw.com; madison.venezia@lw.com; Adam.picker@lw.com at Latham & Watkins LLP to conﬁrm you are on the call. Additional questions during each call may be emailed to stelios.saƯos@lw.com; scott.west...
+
+[Company Counsel Name]:
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 92**
+    in the terms of the Joint Venture Agreement. In connection with the execution of the Joint Venture Agreement, the Company granted Generate Capital warrants to purchase an aggregate of 1,000,000 shares of Company common stock at an exercise price of $25.00 per share (“Warrants”), during a five-year exercise period. Two-thirds of the Warrants are immediately exercisable; the remaining Warrants will become exercisable upon certain funding conditions being satisfied. The exercise price and the numbe...
+  **PDF: blue_bird_email.pdf | Chunk: 2**
+    Email: matt.schlanger@lw.com Madison Venezia Direct Phone: (332) 240-2108 Email: madison.venezia@lw.com Adam Picker Direct Phone: (212) 906-4879 Email: Adam.picker@lw.com Advisor to the Selling Shareholder: Solebury Capital 400 South River Road Suite 300 New Hope, PA 18938 OƯice: (215) 862-7234 Ted Hatﬁeld Mobile: (201) 602-7522 Email: erh@solecap.com Mike Liddell Mobile: (917) 648-0092 Email: mdl@solecap.com Rob Mullin Mobile: (215) 206-4017 Email: rlm@solecap.com Nick Buoncore Mobile: (732) 94...
+  **PDF: 20240201 - 8K - BLBD - Other Events Financial Statements - 3 pages.pdf | Chunk: 0**
+    Page 1 of 4 UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 Date of Report (Date of Earliest Event Reported): January 31, 2024 BLUE BIRD CORPORATION (Exact name of registrant as speciﬁed in its charter) Delaware 001-36267 46-3891989 (State or Other Jurisdiction of Incorporation) (Commission File Number) (IRS Employer Identiﬁcation No.) 3920 Arkwright Road 2nd Floor Macon, Georgi...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 96**
+    officers (incorporated by reference to Exhibit 10.23 to the registrant’s Current Report on Form 8-K filed by the registrant on March 2, 2015). 10.11† Form of Restricted Stock Unit Grant Agreement for directors under the registrant’s Incentive Plan (incorporated by reference to Exhibit 10.1 to the registrant’s Quarterly Report on Form 10-Q/A filed by the registrant on August 18, 2015). 10.12 Credit Agreement dated as of December 12, 2016 by and among Blue Bird Corporation, School Bus Holdings, In...
+
+[Underwriter/Auditor Counsel Name]:
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 96**
+    officers (incorporated by reference to Exhibit 10.23 to the registrant’s Current Report on Form 8-K filed by the registrant on March 2, 2015). 10.11† Form of Restricted Stock Unit Grant Agreement for directors under the registrant’s Incentive Plan (incorporated by reference to Exhibit 10.1 to the registrant’s Quarterly Report on Form 10-Q/A filed by the registrant on August 18, 2015). 10.12 Credit Agreement dated as of December 12, 2016 by and among Blue Bird Corporation, School Bus Holdings, In...
+  **PDF: blue_bird_email.pdf | Chunk: 1**
+    the management and auditor call (we ask that all parties mute their lines and do not announce their team as we wish to maintain conﬁdentiality of the bidding group). Once your team has dialed in for each call, please email stelios.saƯos@lw.com; scott.westhoƯ@lw.com; claire.solimine@lw.com; matt.schlanger@lw.com; madison.venezia@lw.com; Adam.picker@lw.com at Latham & Watkins LLP to conﬁrm you are on the call. Additional questions during each call may be emailed to stelios.saƯos@lw.com; scott.west...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 92**
+    in the terms of the Joint Venture Agreement. In connection with the execution of the Joint Venture Agreement, the Company granted Generate Capital warrants to purchase an aggregate of 1,000,000 shares of Company common stock at an exercise price of $25.00 per share (“Warrants”), during a five-year exercise period. Two-thirds of the Warrants are immediately exercisable; the remaining Warrants will become exercisable upon certain funding conditions being satisfied. The exercise price and the numbe...
+  **PDF: 20240201 - 8K - BLBD - Other Events Financial Statements - 3 pages.pdf | Chunk: 0**
+    Page 1 of 4 UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 8-K CURRENT REPORT Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 Date of Report (Date of Earliest Event Reported): January 31, 2024 BLUE BIRD CORPORATION (Exact name of registrant as speciﬁed in its charter) Delaware 001-36267 46-3891989 (State or Other Jurisdiction of Incorporation) (Commission File Number) (IRS Employer Identiﬁcation No.) 3920 Arkwright Road 2nd Floor Macon, Georgi...
+
+[Information about company's business overview along with it's founding date and headquarter information. Briefly mention the company's primary market, the regions it operates in and its competitive position within industry]:
+  **PDF: blue_bird_email.pdf | Chunk: 2**
+    Email: matt.schlanger@lw.com Madison Venezia Direct Phone: (332) 240-2108 Email: madison.venezia@lw.com Adam Picker Direct Phone: (212) 906-4879 Email: Adam.picker@lw.com Advisor to the Selling Shareholder: Solebury Capital 400 South River Road Suite 300 New Hope, PA 18938 OƯice: (215) 862-7234 Ted Hatﬁeld Mobile: (201) 602-7522 Email: erh@solecap.com Mike Liddell Mobile: (917) 648-0092 Email: mdl@solecap.com Rob Mullin Mobile: (215) 206-4017 Email: rlm@solecap.com Nick Buoncore Mobile: (732) 94...
+  **PDF: BLBD - T_E_document_dated_15-08-2024.pdf | Chunk: 10**
+    00:41:08 Question – Michael Shlisky: Great. Great. It's great to see that you also had growth in the unit sales during the quarter, too, that was exciting. It doesn't appear to me that some of your competitors had growth in their unit sales in the quarter. Can you maybe comment on Blue Bird's market share? Do you think you're gaining share? And give me two answers, one on the ICE side and one on the EV side will be appreciated. 00:41:32 Answer – Philip Horlock: Well, we don't tend to talk too mu...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 13**
+    on research and development. Warranty We provide warranties on virtually all of the buses and parts we sell. Warranties are offered for specific periods of time and mileage, and vary depending upon the type of product and the geographic location of its sale. Pursuant to these warranties, we will repair, replace, or adjust certain parts on a bus that are defective in factory-supplied materials or workmanship during the specified warranty period. In addition to the costs associated with this warra...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 96**
+    officers (incorporated by reference to Exhibit 10.23 to the registrant’s Current Report on Form 8-K filed by the registrant on March 2, 2015). 10.11† Form of Restricted Stock Unit Grant Agreement for directors under the registrant’s Incentive Plan (incorporated by reference to Exhibit 10.1 to the registrant’s Quarterly Report on Form 10-Q/A filed by the registrant on August 18, 2015). 10.12 Credit Agreement dated as of December 12, 2016 by and among Blue Bird Corporation, School Bus Holdings, In...
+
+[Information about the comapny's products, services, or solutions. List the solutions, products, services by name. Highlight flagship products, differentiating factors that make the offerings unique or competitive]:
+  **PDF: BLBD - T_E_document_dated_15-08-2024.pdf | Chunk: 10**
+    00:41:08 Question – Michael Shlisky: Great. Great. It's great to see that you also had growth in the unit sales during the quarter, too, that was exciting. It doesn't appear to me that some of your competitors had growth in their unit sales in the quarter. Can you maybe comment on Blue Bird's market share? Do you think you're gaining share? And give me two answers, one on the ICE side and one on the EV side will be appreciated. 00:41:32 Answer – Philip Horlock: Well, we don't tend to talk too mu...
+  **PDF: BLBD - T_E_document_dated_15-08-2024.pdf | Chunk: 13**
+    don't I, I'll kick oﬀ that. I don't really like to comment on what our competition is doing. What I do know is that, we bid together on state bids, we attend diﬀerent conferences and we're there together. And they're no longer oﬀering the product that we're both oﬀering, the propane and gasoline. They just got a diesel and electric oﬀering out in the marketplace. All I could tell you is we picked a diﬀerent competitor, right? We're in our 13th, 14th year actually now with an exclusive with Ford ...
+  **PDF: BLBD - T_E_document_dated_15-08-2024.pdf | Chunk: 15**
+    any closing remarks. 00:58:38 Well, thank you, Lydia. 00:58:39 And thanks, everyone, for joining us on the call today. We do appreciate your continued interest in Blue Bird and we look forward to updating you again on our progress next quarter. 00:58:48 Just a couple of comments I want to make. I think last year, you saw our momentum increasing throughout the year as proﬁtability improved as we moved through the quarters. And we have continued on the same path by delivering impressive all-time r...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 13**
+    on research and development. Warranty We provide warranties on virtually all of the buses and parts we sell. Warranties are offered for specific periods of time and mileage, and vary depending upon the type of product and the geographic location of its sale. Pursuant to these warranties, we will repair, replace, or adjust certain parts on a bus that are defective in factory-supplied materials or workmanship during the specified warranty period. In addition to the costs associated with this warra...
+
+[Information about the companys latest revenue and profitability metrics (e.g. net profit or loss). Provide key revenue metrics, key performance indicators and growth trends]:
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 36**
+    sizes and replacement patterns due to funding availability as well as the profitability of existing routes. These actions can impact total purchases by fleets in a given year. • Seasonality. Historically, our sales have been subject to seasonal variation based on the school calendar with the peak season during our third and fourth fiscal quarters. Sales during the third and fourth fiscal quarters are typically greater than the first and second fiscal quarters due to the desire of municipalities ...
+  **PDF: BLBD - T_E_document_dated_15-08-2024.pdf | Chunk: 4**
+    $2 million or plus 8% compared to the prior year. This great performance was in part due to increased demand for our parts as the ﬂeet is aging as well as supply chain-driven pricing actions and throughput improvements. Please also keep in mind that, due to year-end holidays and Thanksgiving, our ﬁscal Q1 has a lower number of work week. However, this year, due to the very strong backlog and the improved supply chain situation, we're able to maintain production levels and did not take the pre-CO...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 63**
+    and administrative expenses 87,193 77,246 65,619 Operating profit (loss) $ 51,657 $ (40,700) $ 6,522 Interest expense (18,012) (14,675) (9,682) Interest income 1,004 9 4 Other (expense) income, net (8,307) 2,947 1,776 Loss on debt modification (537) (632) (598) Income (loss) before income taxes $ 25,805 $ (53,051) $ (1,978) Income tax (expense) benefit (8,953) 11,451 1,191 Equity in net income (loss) of non-consolidated affiliate 6,960 (4,159) 498 Net income (loss) $ 23,812 $ (45,759) $ (289) Ea...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 4**
+    financial information regarding our reportable segments including the primary geographic areas in which we earn revenues. Throughout this Report, we refer to the fiscal year ended September30, 2023 as “fiscal 2023,” the fiscal year ended October1, 2022 as “fiscal 2022” and the fiscal year ended October 2, 2021 as “fiscal 2021.” There were 52 weeks in fiscal 2023, fiscal 2022, and fiscal 2021. 3 Blue Bird Corp / 10-K / December 11, 2023 Powered by BamSEC.comPDF page 6 Our performance in recent ye...
+
+[Company & Offering Details]:
+  **PDF: blue_bird_email.pdf | Chunk: 2**
+    Email: matt.schlanger@lw.com Madison Venezia Direct Phone: (332) 240-2108 Email: madison.venezia@lw.com Adam Picker Direct Phone: (212) 906-4879 Email: Adam.picker@lw.com Advisor to the Selling Shareholder: Solebury Capital 400 South River Road Suite 300 New Hope, PA 18938 OƯice: (215) 862-7234 Ted Hatﬁeld Mobile: (201) 602-7522 Email: erh@solecap.com Mike Liddell Mobile: (917) 648-0092 Email: mdl@solecap.com Rob Mullin Mobile: (215) 206-4017 Email: rlm@solecap.com Nick Buoncore Mobile: (732) 94...
+  **PDF: blue_bird_email.pdf | Chunk: 1**
+    the management and auditor call (we ask that all parties mute their lines and do not announce their team as we wish to maintain conﬁdentiality of the bidding group). Once your team has dialed in for each call, please email stelios.saƯos@lw.com; scott.westhoƯ@lw.com; claire.solimine@lw.com; matt.schlanger@lw.com; madison.venezia@lw.com; Adam.picker@lw.com at Latham & Watkins LLP to conﬁrm you are on the call. Additional questions during each call may be emailed to stelios.saƯos@lw.com; scott.west...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 92**
+    in the terms of the Joint Venture Agreement. In connection with the execution of the Joint Venture Agreement, the Company granted Generate Capital warrants to purchase an aggregate of 1,000,000 shares of Company common stock at an exercise price of $25.00 per share (“Warrants”), during a five-year exercise period. Two-thirds of the Warrants are immediately exercisable; the remaining Warrants will become exercisable upon certain funding conditions being satisfied. The exercise price and the numbe...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 97**
+    options granted to employees under the registrant’s Incentive Plan (incorporated by reference to Exhibit 10.2 to the registrant’s Quarterly Report on Form 10-Q filed by the registrant on February 13, 2020). 10.20† Revised form of grant agreement for restricted stock units granted to employees under the registrant’s Incentive Plan (incorporated by reference to Exhibit 10.3 to the registrant’s Quarterly Report on Form 10-Q filed by the registrant on February 13, 2020). 10.21† Transition Agreement ...
+
+[Issuer]:
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 75**
+    Bank, as co-syndication agent, together with other lenders ("Credit Agreement"). The credit facilities provided for under the Credit Agreement consisted of a term loan facility in an aggregate initial principal amount of$160.0 million (the “Term Loan Facility”) and a revolving credit facility with aggregate commitments of $75.0 million. The revolving credit facility included a $15.0 million letter of credit sub-facility anda $5.0 million swing-line sub-facility (“Revolving Credit Facility,” and ...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 96**
+    officers (incorporated by reference to Exhibit 10.23 to the registrant’s Current Report on Form 8-K filed by the registrant on March 2, 2015). 10.11† Form of Restricted Stock Unit Grant Agreement for directors under the registrant’s Incentive Plan (incorporated by reference to Exhibit 10.1 to the registrant’s Quarterly Report on Form 10-Q/A filed by the registrant on August 18, 2015). 10.12 Credit Agreement dated as of December 12, 2016 by and among Blue Bird Corporation, School Bus Holdings, In...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 95**
+    time to time party thereto (incorporated by reference to Exhibit 10.1 to the registrant’s Current Report on Form 8-K filed by the registrant on November 29, 2021). 4.7 Fifth Amendment and Limited Waiver to Credit Agreement, dated as of September 2, 2022, by and among the Blue Bird Corporation, School Bus Holdings, Inc. and certain of its subsidiaries, including Blue Bird Body Company as the borrower, and Bank of Montreal, as Administrative Agent and an Issuing Bank, Fifth Third Bank and Truist B...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 92**
+    in the terms of the Joint Venture Agreement. In connection with the execution of the Joint Venture Agreement, the Company granted Generate Capital warrants to purchase an aggregate of 1,000,000 shares of Company common stock at an exercise price of $25.00 per share (“Warrants”), during a five-year exercise period. Two-thirds of the Warrants are immediately exercisable; the remaining Warrants will become exercisable upon certain funding conditions being satisfied. The exercise price and the numbe...
+
+[Ticker / Exchange]:
+  **PDF: blue_bird_email.pdf | Chunk: 0**
+    Andy Levin Investing Firm | Equity Capital Markets 212-526-5524 (O) 929-694-0543 (M) andy.levin@Investing Firm.com Restricted - External From: Buoncore, Nicholas <njb@solecap.com> Sent: Thursday, February 15, 2024 1:22 PM To: Levin, Andy: Banking <andy.levin@Investing Firm.com>; Stowe, Robert: Banking (NYK) <robert.stowe@Investing Firm.com>; Castle, Joseph C: Equities Syndicate (NYK) <joseph.castle@Investing Firm.com>; Kinloch, Scott S: Equities Syndicate (NYK) <scott.kinloch@Investing Firm.com>; Treiling, Eric D: Equities Syndica...
+  **PDF: blue_bird_email.pdf | Chunk: 1**
+    the management and auditor call (we ask that all parties mute their lines and do not announce their team as we wish to maintain conﬁdentiality of the bidding group). Once your team has dialed in for each call, please email stelios.saƯos@lw.com; scott.westhoƯ@lw.com; claire.solimine@lw.com; matt.schlanger@lw.com; madison.venezia@lw.com; Adam.picker@lw.com at Latham & Watkins LLP to conﬁrm you are on the call. Additional questions during each call may be emailed to stelios.saƯos@lw.com; scott.west...
+  **PDF: BLBD - T_E_document_dated_15-08-2024.pdf | Chunk: 0**
+    Page 1 of 16 Q1 2024 Earnings Call (Corrected version) Event Details Date: 2024-02-07 Company: Blue Bird Corp. Ticker: BLBD-US Company Participants Mark Benﬁeld - Blue Bird Corp., Executive Director-FP&A and Investor Relations Philip Horlock - Blue Bird Corp., Chief Executive Oﬃcer & Director Razvan Radulescu - Blue Bird Corp., Chief Financial Oﬃcer Other Participants Michael Shlisky - Analyst Eric Andrew Stine - Analyst Craig Irwin - Analyst MANAGEMENT DISCUSSION SECTION Operator 00:00:12 Hello...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 85**
+    not be less than100% of the fair market value of a share of the Company's common stock with respect to the grant date of such stock option. No portion of the options vest and become exercisable after the date on which the optionee’s service with the Company and its subsidiaries terminates. The vesting of all unvested shares of common stock subject to an option will automatically be accelerated in connection with a “Change in Control,” as defined in the Plan. New shares of the Company's common st...
+
+[Security Type]:
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 27**
+    include a prolonged period of global economic weakness, a further decline in economic conditions or a slow, weak economic recovery, sustained declines in the price of our common stock, adverse changes in the regulatory environment, adverse changes in the market share of our products, adverse changes in interest rates or other factors leading to reductions in the long-term sales or profitability that we expect. Security breaches and other disruptions to our information technology networks and sys...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 11**
+    BamSEC.comPDF page 12 center located in Delaware, Ohio. We own our facilities in Fort Valley, Georgia (approximately 1.5 million square feet). We lease facilities in Macon, Georgia (approximately 0.3 million square feet), Troy, Michigan (approximately 5 thousand square feet) and Delaware, Ohio (approximately 0.1 million square feet). Our Micro Bird joint venture leases its facility (0.2 million square feet) in Drummondville, Quebec, Canada. Intellectual Property and Technology We seek trademark ...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 12**
+    are governed by the Canadian Motor Vehicle Safety Regulations. These regulations are patterned after the FMVSS regulations, although differences do exist between the two regulatory systems. Seasonality Historically, our business has been highly seasonal with school districts buying their new school buses so that they will be available for use on the first day of the school year, typically in mid-August to early September. This has resulted in our third and fourth fiscal quarters becoming our two...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 20**
+    our insurance policies may not offset the lost sales or increased costs that may be experienced during the disruption of operations. Also, our property damage and business interruption insurance coverage may not be applicable or adequate for any such disruption and may not continue to be available in amounts and on terms acceptable to us. Rationalization or restructuring of manufacturing facilities, including plant expansions and system upgrades at our manufacturing facilities, may cause product...
+
+[Settlement Date]:
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 73**
+    years to five years, for the fiscal years presented: (in thousands) 2023 2022 2021 Balance at beginning of period $ 18,795 $ 20,144 $ 22,588 Add: current period deferred income 12,013 6,847 6,192 Less: current period recognition of income (7,685) (8,196) (8,636) Balance at end of period $ 23,123 $ 18,795 $ 20,144 The outstanding balance of deferred warranty income in the table above is considered a "contract liability," and represents a performance obligation of the Company that we satisfy over ...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 90**
+    supplements, dated June 7, 2023 and September 11, 2023, respectively, to the prospectus, dated December 22, 2021, included in the Company’s registration statement on Form S-3 (File No. 333-261858) that was initially filed with the SEC on December 23, 2021. The Offerings closed on June 12, 2023 and September 14, 2023, respectively. Although the Company did not sell any shares or receive any proceeds from the Offerings, it was required to pay certain expenses in connection with the Offerings, whic...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 79**
+    within other assets and long-term debt (as a contra-balance), respectively, on the Consolidated Balance Sheets and will be amortized as an adjustment to interest expense on a straight-line basis and utilizing the effective interest method, respectively, until maturity of the Amended Credit Agreement. The remaining approximate $0.1 million was recorded to loss on debt modification on the Consolidated Statements of Operations. Sixth Amendment to the Credit Agreement On November 21, 2022, the Compa...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 47**
+    and including (a) April 1, 2023 (the “Amended Limited Availability Period”), or (b) the first date on which Borrower elected to terminate the Amended Limited Availability Period, in each case, subject to (x) the absence of a default or event of default and (y) pro forma compliance with the financial covenant performance covenants under the Amended Credit Agreement. With respect to the financial performance covenants, during the Amended Limited Availability Period for the fiscal quarters ending J...
+
+[Primary / Secondary Mix]:
+  **PDF: BLBD - T_E_document_dated_15-08-2024.pdf | Chunk: 13**
+    don't I, I'll kick oﬀ that. I don't really like to comment on what our competition is doing. What I do know is that, we bid together on state bids, we attend diﬀerent conferences and we're there together. And they're no longer oﬀering the product that we're both oﬀering, the propane and gasoline. They just got a diesel and electric oﬀering out in the marketplace. All I could tell you is we picked a diﬀerent competitor, right? We're in our 13th, 14th year actually now with an exclusive with Ford ...
+  **PDF: BLBD - T_E_document_dated_15-08-2024.pdf | Chunk: 10**
+    00:41:08 Question – Michael Shlisky: Great. Great. It's great to see that you also had growth in the unit sales during the quarter, too, that was exciting. It doesn't appear to me that some of your competitors had growth in their unit sales in the quarter. Can you maybe comment on Blue Bird's market share? Do you think you're gaining share? And give me two answers, one on the ICE side and one on the EV side will be appreciated. 00:41:32 Answer – Philip Horlock: Well, we don't tend to talk too mu...
+  **PDF: BLBD - T_E_document_dated_15-08-2024.pdf | Chunk: 8**
+    We will work with our dealers and end customers to pull out as many as we can into ﬁscal 2024. But for prudency, we have cut our EV bookings forecast for this year from 900 units to 800 units. 00:33:31 So, let me now wrap up the earnings call and the outlook for the business on slide 23. Razvan talked you through the raised guidance for ﬁscal 2024 and I'm showing you some of those metrics at the midpoint of guidance here. We are being prudent on our bookings outlook, only increasing volume by 3%...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 54**
+    began receiving deposits for school buses ordered under the terms the Clean School Bus Rebate Program, which provided a net source of cash year over year as there was no similar activity in fiscal 2022. • The impact of non-cash items (net source of cash) was $4.2 million lower in fiscal 2023 compared to fiscal 2022. Non-cash items impact net income or loss but do not have direct cash flows associated with them. The significant differences relate to the impact of an $8.8 million lower of cost or ...
+
+[Use Of Proceeds]:
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 70**
+    to license or lease it. Our intangible assets with a definite useful life are amortized over their estimated useful lives,7 or 20 years, using the straight-line method. The useful lives of our intangible assets are reassessed annually and they are tested for impairment whenever events or changes in circumstances indicate the carrying amount of the asset may not be recoverable. Debt Issue Costs Amounts paid directly to lenders or as an original issue discount and amounts classified as issuance co...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 75**
+    Bank, as co-syndication agent, together with other lenders ("Credit Agreement"). The credit facilities provided for under the Credit Agreement consisted of a term loan facility in an aggregate initial principal amount of$160.0 million (the “Term Loan Facility”) and a revolving credit facility with aggregate commitments of $75.0 million. The revolving credit facility included a $15.0 million letter of credit sub-facility anda $5.0 million swing-line sub-facility (“Revolving Credit Facility,” and ...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 92**
+    in the terms of the Joint Venture Agreement. In connection with the execution of the Joint Venture Agreement, the Company granted Generate Capital warrants to purchase an aggregate of 1,000,000 shares of Company common stock at an exercise price of $25.00 per share (“Warrants”), during a five-year exercise period. Two-thirds of the Warrants are immediately exercisable; the remaining Warrants will become exercisable upon certain funding conditions being satisfied. The exercise price and the numbe...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 67**
+    buses, control is generally transferred and the customer has the ability to direct the use of and obtain substantially all of the remaining benefits of the product when the product is delivered or when the product has been completed, is ready for delivery, has been paid for, its title has transferred and it is awaiting pickup by the customer. For certain bus sale transactions, we may provide incentives including payment of a limited amount of future interest charges our customers may incur relat...
+
+[Lock-Up]:
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 20**
+    our insurance policies may not offset the lost sales or increased costs that may be experienced during the disruption of operations. Also, our property damage and business interruption insurance coverage may not be applicable or adequate for any such disruption and may not continue to be available in amounts and on terms acceptable to us. Rationalization or restructuring of manufacturing facilities, including plant expansions and system upgrades at our manufacturing facilities, may cause product...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 75**
+    Bank, as co-syndication agent, together with other lenders ("Credit Agreement"). The credit facilities provided for under the Credit Agreement consisted of a term loan facility in an aggregate initial principal amount of$160.0 million (the “Term Loan Facility”) and a revolving credit facility with aggregate commitments of $75.0 million. The revolving credit facility included a $15.0 million letter of credit sub-facility anda $5.0 million swing-line sub-facility (“Revolving Credit Facility,” and ...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 16**
+    to experience some form of outbreak within our facilities, we would take all appropriate measures to protect the health and safety of our employees, which could include a temporary halt in production. Any extended production halt or diminution in production capacity would have a negative impact on our ability to fulfill orders and thus negatively impact our revenues, profitability and cash flows. Reduced profitability and liquidity, resulting in the restructuring of our credit facilities, and/or...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 12**
+    are governed by the Canadian Motor Vehicle Safety Regulations. These regulations are patterned after the FMVSS regulations, although differences do exist between the two regulatory systems. Seasonality Historically, our business has been highly seasonal with school districts buying their new school buses so that they will be available for use on the first day of the school year, typically in mid-August to early September. This has resulted in our third and fourth fiscal quarters becoming our two...
+
+[Current Stock Price]:
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 85**
+    not be less than100% of the fair market value of a share of the Company's common stock with respect to the grant date of such stock option. No portion of the options vest and become exercisable after the date on which the optionee’s service with the Company and its subsidiaries terminates. The vesting of all unvested shares of common stock subject to an option will automatically be accelerated in connection with a “Change in Control,” as defined in the Plan. New shares of the Company's common st...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 64**
+    11,568 Income tax (received) paid, net of tax refunds (29) (79) 31 Non-cash investing and financing activities: Accrued capital additions to property, plant and equipment and other current assets for capitalized intangible assets $ 941 $ 948 $ 587 Cashless exercise of stock options — — 2,299 Right-of-use assets obtained in exchange for operating lease obligations 626 1,424 62 Finance lease right-of-use assets removed due to non-renewal of lease — (2,451) — Finance lease obligations removed due t...
+  **PDF: BLBD - T_E_document_dated_15-08-2024.pdf | Chunk: 11**
+    in his script, so I'll just let – he wants to just jump in here on this one. 00:44:38 Answer – Razvan Radulescu: Yeah. Hi, Eric, (00:44:39) and thanks for the question. So, as I mentioned in my remarks, indeed, our pricing curve is now ahead of the costing curve, especially for the last two quarters. And also, as highlighted with the upcoming investments, whether it's on the products and powertrain and R&D, whether it's into CapEx and manufacturing capabilities, which includes also a component o...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 86**
+    aggregate intrinsic value totaling $0.3 million. (2) Stock options outstanding at the end of the fiscal year had $3.2 million intrinsic value. (3) Fully vested and exercisable options at the end of the fiscal year had $1.4 million intrinsic value. The total aggregate intrinsic value of stock options exercised during fiscal 2022 and fiscal 2021 was less than $0.1 million and $1.1 million, respectively. Compensation expense for stock option awards, recognized in selling, general and administrative...
+
+[Current Basic Market Cap]:
+  **PDF: BLBD - T_E_document_dated_15-08-2024.pdf | Chunk: 6**
+    maintains a conservative cash position by year end. On the left side, our sources of cash consist of a very strong cash ﬂow from operations after tax and interest of $148 million, existing cash at ﬁscal 2023 yearend of $77 million, and $5 million in dividends from our joint venture with Micro Bird. We do not expect to add new debt this year. 00:25:21 On the right side, we have three uses of cash: growth, shareholders and debt repayments. As far as growth is concerned, we plan to use and not to e...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 86**
+    aggregate intrinsic value totaling $0.3 million. (2) Stock options outstanding at the end of the fiscal year had $3.2 million intrinsic value. (3) Fully vested and exercisable options at the end of the fiscal year had $1.4 million intrinsic value. The total aggregate intrinsic value of stock options exercised during fiscal 2022 and fiscal 2021 was less than $0.1 million and $1.1 million, respectively. Compensation expense for stock option awards, recognized in selling, general and administrative...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 87**
+    84 Blue Bird Corp / 10-K / December 11, 2023 Powered by BamSEC.comPDF page 87 Funded Status:The following table reconciles the benefit obligations, plan assets, funded status and net liability information of the Defined Benefit Plan at the dates indicated. The net pension liability is reflected in long-term liabilities on the Consolidated Balance Sheets. Funded Status (in thousands) September 30, 2023 October 1, 2022 Benefit obligation $ 108,393 $ 122,571 Fair value of plan assets 105,989 106,54...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 64**
+    11,568 Income tax (received) paid, net of tax refunds (29) (79) 31 Non-cash investing and financing activities: Accrued capital additions to property, plant and equipment and other current assets for capitalized intangible assets $ 941 $ 948 $ 587 Cashless exercise of stock options — — 2,299 Right-of-use assets obtained in exchange for operating lease obligations 626 1,424 62 Finance lease right-of-use assets removed due to non-renewal of lease — (2,451) — Finance lease obligations removed due t...
+
+[Underwriters & Economics]:
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 26**
+    it is uncertain as to when and if an agreement with the USW will be reached. As such, uncertainty exists regarding labor costs and labor actions, which may include increased labor costs, strikes, work stoppages, unfair labor practices claims and other disturbances and disputes. Union actions that may occur in the future could cause disruptions to our operations and may cause us to incur additional costs, any of which could have a material adverse effect on our cash flow, results of operations an...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 90**
+    supplements, dated June 7, 2023 and September 11, 2023, respectively, to the prospectus, dated December 22, 2021, included in the Company’s registration statement on Form S-3 (File No. 333-261858) that was initially filed with the SEC on December 23, 2021. The Offerings closed on June 12, 2023 and September 14, 2023, respectively. Although the Company did not sell any shares or receive any proceeds from the Offerings, it was required to pay certain expenses in connection with the Offerings, whic...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 20**
+    our insurance policies may not offset the lost sales or increased costs that may be experienced during the disruption of operations. Also, our property damage and business interruption insurance coverage may not be applicable or adequate for any such disruption and may not continue to be available in amounts and on terms acceptable to us. Rationalization or restructuring of manufacturing facilities, including plant expansions and system upgrades at our manufacturing facilities, may cause product...
+  **PDF: BLBD - FY 2023 10-k.pdf | Chunk: 70**
+    to license or lease it. Our intangible assets with a definite useful life are amortized over their estimated useful lives,7 or 20 years, using the straight-line method. The useful lives of our intangible assets are reassessed annually and they are tested for impairment whenever events or changes in circumstances indicate the carrying amount of the asset may not be recoverable. Debt Issue Costs Amounts paid directly to lenders or as an original issue discount and amounts classified as issuance co...
