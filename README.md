@@ -69,6 +69,12 @@ This project provides an end-to-end pipeline for generating structured documents
 
 ---
 
+## 📊 Evaluation
+
+To assess the quality of the generated documents, an evaluation was conducted by comparing a human-filled template with one produced by this automated pipeline. Both outputs were submitted to a third-party LLM for judgment, with the human-generated document set as the baseline (10/10). The pipeline-generated document received a score of 5/10, indicating that while the automated approach captures relevant information, there is still a gap in completeness, nuance, and accuracy compared to expert human work.
+
+---
+
 ## 📦 Installation
 
 1. Clone the repository and navigate to the project directory.
